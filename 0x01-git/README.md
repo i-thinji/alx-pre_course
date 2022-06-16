@@ -1,1 +1,1 @@
-This is My second Commit
+Starting to code today, so cool
